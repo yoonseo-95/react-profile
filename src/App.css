@@ -1,0 +1,49 @@
+.orange {
+  color: orange;
+}
+
+.profile {
+  width: 300px;
+  margin: 0 auto;
+  text-align:center;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 20px;
+  margin-bottom: 2rem;
+  box-shadow: 7px 5px 23px -9px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 7px 5px 23px -9px rgba(0,0,0,0.75);
+  -moz-box-shadow: 7px 5px 23px -9px rgba(0,0,0,0.75);
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p{
+  margin-bottom: 20px;
+}
+
+.photo {
+  width: 200px;
+  height: 200px;
+  border-radius : 100%;
+}
+
+.avatar {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 2rem auto;
+}
+
+.new_tag {
+  position: absolute;
+  left: 80%;
+  top: 10%; 
+  font-weight: bold;
+  font-size: 15px;
+  background-color: lightcoral;
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  color: #fff;
+}
